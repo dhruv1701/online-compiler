@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding: 0;
+}
+header h2,h3{
+    display: inline-block;
+}
+header{
+    height:4em;
+    background-color: black  
+}
+#name{
+    position:relative;
+    top:.5em;
+    left:2em;
+    font-size: 2em;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif
+}
+#newcode{
+    position:relative;
+    top:.7em;
+    left:60em;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#code{
+    display: inline-block;
+    padding:.4em;
+    width:55em;
+    margin:1em;
+}
+#untitled{
+    position:relative;
+    top:.9em;
+    left:2em;
+    font-size:1.3em;
+}
+hr{
+    position: relative;
+    top:2.5em;
+    left:2em;
+}
+#compiler{
+    position: relative;
+    top:3em;
+    left:2.9em;
+}
+footer{
+    padding: .9em;
+    position: relative;
+    top:2em;
+}
